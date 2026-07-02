@@ -320,24 +320,25 @@ Configured Amazon SNS email notifications for CloudWatch alarms.
 AWS-Capstone-Project/
 │
 ├── README.md
-├── architecture.png
-├── vpc-created.png
-├── public-subnets-created.png
-├── private-subnets-created.png
-├── internet-gateway-attached.png
-├── public-route-table.png
-├── nat-gateway-created.png
-├── private-route-table.png
-├── security-groups-created.png
-├── launch-template-created.png
-├── target-group-created.png
-├── load-balancer-created.png
-├── auto-scaling-group-created.png
-├── ec2-instances-running.png
-├── rds-database-created.png
-├── application-running.png
-├── cloudwatch-alarm-created.png
-└── sns-topic-created.png
+├── screenshots
+  ├── architecture.png
+  ├── vpc-created.png
+  ├── public-subnets-created.png
+  ├── private-subnets-created.png
+  ├── internet-gateway-attached.png
+  ├── public-route-table.png
+  ├── nat-gateway-created.png
+  ├── private-route-table.png
+  ├── security-groups-created.png
+  ├── launch-template-created.png
+  ├── target-group-created.png
+  ├── load-balancer-created.png
+  ├── auto-scaling-group-created.png
+  ├── ec2-instances-running.png
+  ├── rds-database-created.png
+  ├── application-running.png
+  ├── cloudwatch-alarm-created.png
+  └── sns-topic-created.png
 ```
 
 ---
