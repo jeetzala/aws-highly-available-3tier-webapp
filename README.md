@@ -10,7 +10,7 @@ The application is hosted on Amazon EC2 instances running NGINX behind an Applic
 
 ## 🏗️ Architecture
 
-![Architecture](architecture.png)
+![Architecture](screenshots/architecture.png)
 
 ---
 
