@@ -64,7 +64,7 @@ The application is hosted on Amazon EC2 instances running NGINX behind an Applic
 
 ### Screenshot
 
-![VPC Created](vpc-created.png)
+![VPC Created](screenshots/vpc-created.png)
 
 ---
 
@@ -81,9 +81,9 @@ Enabled Auto Assign Public IP on public subnets.
 
 ### Screenshots
 
-![Public Subnets](public-subnets-created.png)
+![Public Subnets](screenshots/public-subnets-created.png)
 
-![Private Subnets](private-subnets-created.png)
+![Private Subnets](screenshots/private-subnets-created.png)
 
 ---
 
@@ -93,7 +93,7 @@ Created and attached an Internet Gateway to the VPC.
 
 ### Screenshot
 
-![Internet Gateway](internet-gateway-attached.png)
+![Internet Gateway](screenshots/internet-gateway-attached.png)
 
 ---
 
@@ -111,9 +111,9 @@ Configured:
 
 ### Screenshots
 
-![Public Route Table](public-route-table.png)
+![Public Route Table](screenshots/public-route-table.png)
 
-![Private Route Table](private-route-table.png)
+![Private Route Table](screenshots/private-route-table.png)
 
 ---
 
@@ -123,7 +123,7 @@ Allocated an Elastic IP and deployed a NAT Gateway inside the public subnet for 
 
 ### Screenshot
 
-![NAT Gateway](nat-gateway-created.png)
+![NAT Gateway](screenshots/nat-gateway-created.png)
 
 ---
 
@@ -143,7 +143,7 @@ Configured:
 
 ### Screenshot
 
-![Security Groups](security-groups-created.png)
+![Security Groups](screenshots/security-groups-created.png)
 
 ---
 
@@ -174,7 +174,7 @@ User Data automatically:
 
 ### Screenshot
 
-![Launch Template](launch-template-created.png)
+![Launch Template](screenshots/launch-template-created.png)
 
 ---
 
@@ -186,7 +186,7 @@ Configured health checks.
 
 ### Screenshot
 
-![Target Group](target-group-created.png)
+![Target Group](screenshots/target-group-created.png)
 
 ---
 
@@ -202,7 +202,7 @@ Configured:
 
 ### Screenshot
 
-![Load Balancer](load-balancer-created.png)
+![Load Balancer](screenshots/load-balancer-created.png)
 
 ---
 
@@ -220,9 +220,9 @@ Enabled ELB Health Checks.
 
 ### Screenshots
 
-![Auto Scaling Group](auto-scaling-group-created.png)
+![Auto Scaling Group](screenshots/auto-scaling-group-created.png)
 
-![Running EC2 Instances](ec2-instances-running.png)
+![Running EC2 Instances](screenshots/ec2-instances-running.png)
 
 ---
 
@@ -239,7 +239,7 @@ Configuration:
 
 ### Screenshot
 
-![RDS Database](rds-database-created.png)
+![RDS Database](screenshots/rds-database-created.png)
 
 ---
 
@@ -249,7 +249,7 @@ Verified successful deployment using the Application Load Balancer DNS endpoint.
 
 ### Screenshot
 
-![Application Running](application-running.png)
+![Application Running](screenshots/application-running.png)
 
 ---
 
@@ -263,7 +263,7 @@ Alarm Threshold:
 
 ### Screenshot
 
-![CloudWatch Alarm](cloudwatch-alarm-created.png)
+![CloudWatch Alarm](screenshots/cloudwatch-alarm-created.png)
 
 ---
 
@@ -273,7 +273,7 @@ Configured Amazon SNS email notifications for CloudWatch alarms.
 
 ### Screenshot
 
-![SNS Topic](sns-topic-created.png)
+![SNS Topic](screenshots/sns-topic-created.png)
 
 ---
 
